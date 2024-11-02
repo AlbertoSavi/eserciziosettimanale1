@@ -1,0 +1,105 @@
+
+html, body {
+    display:block;
+    flex-direction: column;
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: "Open Sans", sans-serif;
+    min-width: 1024px;
+    min-height: 768px;
+
+}
+
+
+.reticle {
+ background-color: black;
+    
+    
+}
+
+h1 ,h4 {
+    color: #25a2c3;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    line-clamp: 1.5;
+    
+
+}
+
+
+
+.title{
+    
+   
+    background-image: url(/images/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    padding-bottom: 280px;
+    text-align: center;
+    padding-top: 345px;
+}
+
+
+
+:link, a:visited {
+    color: white;
+    border: 1px solid orangered;
+    background-color: orangered;
+    text-align: center; 
+    padding: 8px 8px 8px 8px;
+    border-radius: 7%;
+  
+    
+}
+
+
+.all img{
+    min-width: 1%;
+    border-radius: 50%;
+    max-width: 25%;
+    margin-left: 23%;
+    margin-top: 5%;
+    
+    
+}
+
+
+
+.text{
+    max-width: 20%;
+    min-width: 2%;
+    margin-left: 53%;
+    margin-top:-21%;
+    padding-bottom: 10%;
+    
+}
+
+blockquote {
+    background-color: #e22d03;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.fotos{
+    box-sizing: content-box;
+}
+
+.foto1 {
+    box-sizing: border-box;
+    border:1px solid #393d41;
+    margin-right: 1483px;
+    margin-left: 5%;
+    margin-top: 5%;
+    text-align: center;
+    
+}
+
+.foto2 {
+    box-sizing: border-box
+    text-align: ;
+    border:1px solid #393d41;
+    margin-left: 36%;
+}
